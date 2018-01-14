@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+hey you
+if you are interested, join me in my next project
